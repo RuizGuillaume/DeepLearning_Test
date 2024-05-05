@@ -1,2 +1,2 @@
 # DeepLearning_Test
-Test du concept de réseau de neurones
+Testing the neural network concept and creating my first perceptrons from scratch
